@@ -1,0 +1,59 @@
+# Ich will Restatements zwischen Geschäftsberichten identifizieren. Fokus: Nachhaltigkeitsberichte.
+# Restatements sind Berichte, die vorangegangene Berichte korrigieren.
+# Berichte bestehen hauptsächlich aus strings.
+
+# Folgende strings / word stems sind in restatements häufig: restat, correct, updat, revis. 
+
+# 3 Eigenschaften von Restatements wichtig:
+#	1. Type of Restat: Korrektur oder update wegen anderen Methoden
+#	2. Umfang des Restatements (Wie wird das gemessen? In Änderungen von Kennzahlen?)
+#	3. Type of Data: Welche Daten werden verändert? Z.B. "Umweltdaten"
+
+# Zusätzliche Variablen: 
+#	1. Seitenanzahl des Berichts
+# 	2. Wurde GRI befolgt? The Global Reporting Initiative (known as GRI) is an international 
+# 	independent standards organization that helps businesses, governments and other organizations 
+#	understand and communicate their impacts on issues such as climate change, human rights and corruption.
+#
+# Direkt im Anschluss war meeting. Siehe Notizen. 
+
+-----------
+MODUL 0: MAIN
+
+# paths-Liste generieren
+
+for path in paths:
+	
+
+
+-----------
+MODUL 1: Dateien ansteuern
+
+import os
+
+# hier eine Funktion basteln, die alle Ordnerstrukturen bis ganz nach unten entlang geht, also alle PDFs ansteuert
+# Der Pfad zu jeder Datei soll so in einer Liste gespeichert werden. 
+# Udemy PythonBootcamp. Da war ein abschnitt dazu. 
+
+pdf_paths = ...
+
+-----------
+MODUL 2: Dateien auslesen
+
+import PyPDF2
+
+with open(pdf_path, 'r') as pdf:
+	pdf_reader = PyPDF2.PdfFileReader(pdf)
+	pages = pdf_reader.numPages #extrahierbare Seitenanzahl
+	
+	for p in range(pages):
+		page = pdf_reader.getPage(p)
+		pdf_text.append(page.extractText())
+
+-----------
+MODUL 3: Dateien bereinigen
+
+????
+
+-----------
+MODUL 4: NLP-Preprocessing

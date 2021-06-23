@@ -1,0 +1,377 @@
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\1+1 DRILLISCH AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\1+1 DRILLISCH AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\A.SPRINGER AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\adesso2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\adesso2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ADIDAS AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ADIDAS AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ADIDAS AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Adler Modemärkte AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Adler Modemärkte AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ADVA AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ADVA AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ahlers2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aixtron Se2017_NFE_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aixtron Se2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ALBA2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ALBA2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\All For One Steep2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Amadeus FiRe2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Amadeus FiRe2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Audi2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Audi2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aurubis AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aurubis AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aurubis AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aurubis AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Aurubis AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bayer AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bayer AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bayer AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bayer AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bayer AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BayWa2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BayWa2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BayWa2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BayWa2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BayWa2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bechtle AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bechtle AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bechtle AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bechtle AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Beiersdorf AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bertrandt2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bertrandt2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bertrandt2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BHS tabletop2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BHS tabletop2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bijou Brigitte2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bijou Brigitte2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bilfinger Berger SE2012_SR_kurz.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bilfinger Berger SE2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bilfinger Berger SE2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bilfinger Berger SE2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Bilfinger Berger SE2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Biotest2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Biotest2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BMW AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Brenntag AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Brenntag AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Brenntag AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Brenntag AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Brenntag AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BVB (Borussia Dortmund)2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\BVB (Borussia Dortmund)2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cancom AG2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cancom AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG (Metro AG) SR 2008.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG (Metro AG) SR_2010.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG (Metro AG) SR_2012.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG (Metro AG) SR_2014.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG (Metro AG) SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Ceconomy AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CENIT2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CENIT2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CENTROTEC Sustainable2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CENTROTEC Sustainable2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Cewe2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\COMPUGROUP MED.AG 2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\COMPUGROUP MED.AG 2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Continental AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Covestro AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Covestro AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Covestro AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Covestro AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CTS EVENTIM KGAA2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\CTS EVENTIM KGAA2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2009_SR_360.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Daimler AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\DELIVERY HERO SE2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\DELIVERY HERO SE2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutsche Post AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutz AG2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Deutz AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\DMG Mori AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\DMG Mori AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dr Hönle2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Draegerwerk VZO2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Draegerwerk VZO2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2015_Sr.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Dt_Telekom AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Duerr AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2009_Sr.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\E.ON AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Eckert _ Ziegler Strahlen- und Medizintechnik2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Eckert _ Ziegler Strahlen- und Medizintechnik2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Einhell Germany2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Einhell Germany2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elmos Semiconductor2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elmos Semiconductor2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Elringklinger AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\EUROMICRON AG2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\EUROMICRON AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evonik Industries AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evotec AG2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Evotec AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fielmann AG2017_NFE_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fielmann AG2018_NFE_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\First Sensor2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\First Sensor2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Francotyp-Postalia2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Francotyp-Postalia2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fraport AG FFM Airport2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\FRES.MED.CARE KGAA2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\FRES.MED.CARE KGAA2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fresenius SE2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fresenius SE2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Fuchs Petrol. AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Gerry Weber Internat2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Gerry Weber Internat2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Gerry Weber Internat2018_NFE .pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Gesco2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GFT TECHNOLOGIES SE2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GFT TECHNOLOGIES SE2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GIGASET AG 2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GIGASET AG 2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GkSoftware2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\GkSoftware2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Grammer2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Grammer2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hamburg.Hafen U. Log. A-SP2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hanse_Yachts2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hawesko2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hawesko2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Heidelberg.Druckma2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HeidelbergCement AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Henkel AG_Co.KGAA2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2009_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2011_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hochtief AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\HornbachHolding2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2013_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Hugo Boss AG2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Indus2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Indus2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Infineon Tech.AG2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Infineon Tech.AG2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Infineon Tech.AG2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Init2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Init2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Innogy SE Inh2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Innogy SE Inh2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Innogy SE Inh2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\ISRA Vision2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\IVU2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Jenoptik AG_NFE_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Jenoptik AG_NFE_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Jungheinrich AG_SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Jungheinrich AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Jungheinrich AG_SR_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\k+s. AG_SR_2010.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\kiongroup AG_SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\kiongroup AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\kiongroup AG_SR_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\klöcknerCo SE_NFE_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Koenig_Bauer2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Koenig_Bauer2018_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_NFE_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2010.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2011.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2012.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2013.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2014.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2015.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\krones AG_SR_.2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KSB2017_NFE.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KUKA AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KUKA AG_SR_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2008_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2010_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2012_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2014_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2015_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2016_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\KWS2018_SR_GRI.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lanxess AG NFE_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Leifheit2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Leifheit2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Leoni AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2008.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2009.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2011.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2012.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2013.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2014.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2015.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Linde AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\LudwigBeck2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\LudwigBeck2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2008.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2009.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2010.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2011.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2012.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2013.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2014.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2015.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Lufthansa AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Mainova2018_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2010.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2011.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2012.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2013.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2014.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2015.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2016.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\MAN SE_SR_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Manz Automation AG_SR_2017.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Manz Automation AG_SR_2018.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Masterflex2017_SR.pdf
+C:\Users\test\Desktop\Data Science\WHK\projekt_restatements\data\raw\2008_2018\Masterflex2018_SR.pdf
