@@ -1,33 +1,26 @@
 import os
 import glob
 
-
-
-
-def Fetcher(folder):
+def fetch(folder = "test_data"):
     '''
-    VORSICHT: Pfade werden nur direkt aus einem einzigen Ordner geholt! Muss irgendwann gefixt werden. 
-    
+    Nimmt einen Ordner und listet alle Dateien darin auf.
+    Rückgabewert ist eine Pfad-Liste aus vollständigen Pfaden zu diesen Dateien.
     '''
-#     # öffne leere Liste für die Ausgabe
-#     path_list = []
+    # initiiere leere Ausgabeliste
+    pfad_liste = []
+
+    # Speichere Pfad bis zum Zielordner
+    pfad_bis_folder = os.path.dirname(os.path.abspath(folder))
+
+    # Speichere Dateinamen im Zielordner
+    folder += "/*"
+    pfad_ab_folder = glob.glob(folder)
     
-#     # definiere "folder", welcher bis ans Ende durchsucht werden soll aus path
-#     folder = os.path.abspath('C:/Users/test/Desktop/Data Science/WHK/projekt_restatements/data/raw/2008_2018/*.pdf')
+    # Kombiniere beide zu eine rListe vollständiger Pfade
+    for pfad in pfad_ab_folder:
+        pfad_liste.append(os.path.join(pfad_bis_folder, pfad))
 
-#     # geht die Ordnerstruktur entlang und fügt die Dateipfade zu path_list hinzu.
-#     for root, dirs, files in os.walk(".",topdown = False):
-#         for name in files:
-#             path_list.append(os.path.join(folder,root[2:], name))
-
-#     # Rückstände von Python-Checkpoints herausfiltern: KLAPPT AUS GRÜNDEN NICHT
-#     path_list_clean = [i for i in path_list if "checkpoint" not in i]
-            
-#     return path_list_clean
+    return(pfad_liste)
 
 
-    # definiere "folder", welcher bis ans Ende durchsucht werden soll aus path
-    folder = os.path.abspath('C:/Users/test/Desktop/Data Science/WHK/projekt_restatements/data/raw/2008_2018/*.pdf')
-    
-    # rstelle Liste
-    return glob.glob(folder)
+
