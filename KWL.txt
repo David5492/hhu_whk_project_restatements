@@ -1,68 +1,70 @@
-abändern		
-Abänderung		
-abgeändert		
-aktualisieren		
-aktualisiert		
-Aktualisierun		
-Änderung		
-angepasst		
-anpassen		
-Anpassung		
-aufdatieren		
-ausbessern		
-Ausbesserung		
-ausgebessert		
-bearbeiten		
-bearbeitet		
-Bearbeitung		
-beheben		
-bereinigen
-bereinigt
-Bereinigung
-berichtigen
-berichtigt
-Berichtigung
-Fehlerverbes
-geändert
-Korrektion
-Korrektur
-korrigieren
-korrigiert
-Nachbesseru
-Nachprüfung
-neu ermittelt
-neu formulier
-neu formulier
-neue Berechn
-neue Berechn
-neue Method
-neue Method
-neuen Berech
-neuen Metho
-neuer Berech
-neuer Metho
-Neuermittlun
-Neufassung
-Neuformulier
-nicht vergleic
-redigieren
-redigiert
-revidieren
-revidiert
-Revision
-richtig gestell
-richtig stellen
-Richtigstellun
-rückwirkend
-Scope-Erweit
-überarbeiten
-überarbeitet
-Überarbeitun
-überholt
-umformulier
+neu formulieren
+umformulieren
+Umformulierung
+Neuformulierung
+Anpassung
 umformuliert
-Umformulier
-Update
+neu formuliert
+beheben
+berichtigen
+ausbessern
+richtig stellen
+korrigieren
+verbessern
+abändern
+ändern
+bereinigen
+Korrektur
+Verbesserung
+Berichtigung
+Richtigstellung
+Ausbesserung
+Bereinigung
+Fehlerverbesserung
+Nachbesserung
+Änderung
+berichtigt
+aktualisiert
+korrigiert
+ausgebessert
+richtig gestellt
+verbessert
+geändert
+aktualisieren
+anpassen
 updaten
+verbessern
+aufdatieren
+Aktualisierung
+Update
+Anpassung
+aktualisiert
 upgedated
-Vorjahreswer
+angepasst
+abändern
+revidieren
+überarbeiten
+überprüfen
+redigieren
+verbessern
+bearbeiten
+Überarbeitung
+Berichtigung
+Änderung
+Korrektur
+Revision
+Korrektion
+Überprüfung
+Neufassung
+Abänderung
+Nachprüfung
+Verbesserung
+Bearbeitung
+überarbeitet
+verbessert
+revidiert
+bereinigt
+abgeändert
+überholt
+redigiert
+bearbeitet
