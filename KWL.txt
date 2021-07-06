@@ -1,70 +1,68 @@
-neu formulieren
-umformulieren
-Umformulierung
-Neuformulierung
-Anpassung
-umformuliert
-neu formuliert
-beheben
-berichtigen
-ausbessern
-richtig stellen
-korrigieren
-verbessern
 abändern
-ändern
-bereinigen
-Korrektur
-Verbesserung
-Berichtigung
-Richtigstellung
-Ausbesserung
-Bereinigung
-Fehlerverbesserung
-Nachbesserung
-Änderung
-berichtigt
-aktualisiert
-korrigiert
-ausgebessert
-richtig gestellt
-verbessert
-geändert
-aktualisieren
-anpassen
-updaten
-verbessern
-aufdatieren
-Aktualisierung
-Update
-Anpassung
-aktualisiert
-upgedated
-angepasst
-abändern
-revidieren
-überarbeiten
-überprüfen
-redigieren
-verbessern
-bearbeiten
-Überarbeitung
-Berichtigung
-Änderung
-Korrektur
-Revision
-Korrektion
-Überprüfung
-Neufassung
 Abänderung
-Nachprüfung
-Verbesserung
-Bearbeitung
-überarbeitet
-verbessert
-revidiert
-bereinigt
 abgeändert
-überholt
-redigiert
+aktualisieren
+aktualisiert
+Aktualisierung
+Änderung
+angepasst
+anpassen
+Anpassung
+aufdatieren
+ausbessern
+Ausbesserung
+ausgebessert
+bearbeiten
 bearbeitet
+Bearbeitung
+beheben
+bereinigen
+bereinigt
+Bereinigung
+berichtigen
+berichtigt
+Berichtigung
+Fehlerverbesserung
+geändert
+Korrektion
+Korrektur
+korrigieren
+korrigiert
+Nachbesserung
+Nachprüfung
+neu ermittelt
+neu formulieren
+neu formuliert
+neue Berechnungsmethode
+neue Berechnungsmethoden
+neue Methode
+neue Methoden
+neuen Berechnungsmethoden
+neuen Methoden
+neuer Berechnungsmethode
+neuer Methode
+Neuermittlung
+Neufassung
+Neuformulierung
+nicht vergleichbar
+redigieren
+redigiert
+revidieren
+revidiert
+Revision
+richtig gestellt
+richtig stellen
+Richtigstellung
+rückwirkend
+Scope-Erweiterung
+überarbeiten
+überarbeitet
+Überarbeitung
+überholt
+umformulieren
+umformuliert
+Umformulierung
+Update
+updaten
+upgedated
+Vorjahreswert
