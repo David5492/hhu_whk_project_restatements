@@ -8,10 +8,6 @@ import datetime
 start = datetime.datetime.now()
 
 
-# In dieser Datei soll eine Neue Datei geschrieben.
-# Für jeden Jahresabschluss, den diese Datei einließt, soll eine Excel-Arbeitsmappe erstellt 
-# werden, die anhand einer KeyWordListe matches abgleicht und den Satz des Matches extrahiert. 
-
 #=============================================================================================
 # 0. VORBEREITUNG: Pfade sammlen, KWL laden.
 #=============================================================================================
