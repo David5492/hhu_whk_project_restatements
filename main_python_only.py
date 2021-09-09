@@ -88,7 +88,7 @@ for pfad in pfade:
                 if re.search(key_word, satz):
                     key_word_clean = ''.join([char for char in key_word.replace('.',' ').replace('\d', '') if char not in '*+\W^'])
                     with open("./output.csv", "a", encoding="utf-8") as File:
-                        File.write(u"{};{};{};{};{};{};{};{};{}\n".format(firm, year, report_size, report_words, is_gri, page_number, key_word_clean, key_word, satz)) #, restatement
+                        File.write(u"{};{};{};{};{};{};{};{};{}\n".format(firm, year, report_size, report_words, is_gri, page_number, key_word_clean, key_word, satz.replace(u'\ufffd', ' '))) 
                     satz_drin = True
                 
 

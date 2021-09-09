@@ -78,7 +78,7 @@ for pfad in pfade:
 
             # Seite abspeichern
             with open("./data/preprocessed.csv", "a", encoding="utf-8") as File:
-                File.write(u"{};{};{};{};{};{};{}\n".format(firm, year, report_size, report_words, is_gri, page_number, satz))
+                File.write(u"{};{};{};{};{};{};{}\n".format(firm, year, report_size, report_words, is_gri, page_number, satz.replace(u'\ufffd', ' ')))
 
 
 stop = datetime.datetime.now()

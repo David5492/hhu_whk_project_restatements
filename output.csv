@@ -134,7 +134,7 @@ Fraport AG FFM Airport2012_SR;2012;251;92901;1;161;wert angepasst;wert.*angepass
 Fraport AG FFM Airport2012_SR;2012;251;92901;1;187;zahl angepasst;zahl.*angepasst;die  konzern-­personalkennzahlen  der  jahre  2010  und  2011  wurden  teilweise,  auf  grund  von  abweichungen  in  derkonsolidierung,  rückwirkend  angepasst  (siehe  “personal”)
 Fraport AG FFM Airport2012_SR;2012;251;92901;1;212;daten angepasst;daten.*angepasst;  entsprechend  neuervorschriften  der  gefahrstoffverordnung  sowie  der  technischen  regeln  für  gefahrstoffe  (trgs),  wurden  die  bisherigengefährdungsanalysen  (gefahrstoff-­datenblätter)  überarbeitet  und  den  gesetzlichen  regelungen  angepasst
 Henkel AG_Co.KGAA2013_SR;2013;55;19616;1;3;bereinig;^\d+\W*bereinig;1  bereinigt um einmalige aufwendungen und erträge sowie restrukturie-rungsaufwendungen
-Henkel AG_Co.KGAA2013_SR;2013;55;19616;1;3;bericht korrigier;bericht.*korrigier;1��festgestellte�oder�berichtete�abweichungen�aus�dem�jahr�2012�haben�wir��  rückwirkend korrigiert
+Henkel AG_Co.KGAA2013_SR;2013;55;19616;1;3;bericht korrigier;bericht.*korrigier;1  festgestellte oder berichtete abweichungen aus dem jahr 2012 haben wir    rückwirkend korrigiert
 Henkel AG_Co.KGAA2013_SR;2013;55;19616;1;48;bericht korrigier;bericht.*korrigier;rückwirkend festgestellte oder berichtete abwei-chungen korrigieren wir in der aktuellen bericht-erstattung
 Henkel AG_Co.KGAA2013_SR;2013;55;19616;1;51;zahl vorjahr;zahl.*vorjahr;die zahl der geförderten projekte liegt etwa auf vorjahresni-veau
 Linde AG_SR_2014;2014;102;22122;1;5;zahl vorjahr;zahl.*vorjahr; größereveränderungen bei den kennzahlen im vergleich zu den vorjahren sind häufig auf diesen effektzurückzuführen
