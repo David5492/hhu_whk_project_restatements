@@ -53,7 +53,20 @@ for i in isin_dict.keys():
 PATH = 'C:\\Users\\test\\sciebo\\FACC SHK-WHB Berichte' # PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\test_data'
 paths = [y for x in os.walk(PATH) for y in glob(os.path.join(x[0], '*.pdf'))]
 paths_de = [pfad for pfad in paths if 'eng.' not in pfad.lower()]
-paths_de_SR = [pfad for pfad in paths_de if ('SR' in pfad) | ('nfb' in pfad.lower()) | ('nfe' in pfad.lower()) | ('nicht' in pfad.lower())]
+paths_de_SR = [pfad for pfad in paths_de if not ('ar.' in pfad.lower()) | ('gb' in pfad.lower()) | ('ea.' in pfad.lower()) | ('_ar' in pfad.lower()) | ('abschlu' in pfad.lower()) | ('jb' in pfad.lower()) | ('annual' in pfad.lower())]
+
+for pfad in paths:
+    with open("alle_pfade.txt", mode="a", encoding="utf-8") as file:
+        file.write(pfad + '\n')
+
+for pfad in paths_de:
+    with open("alle_pfade_de.txt", mode="a", encoding="utf-8") as file:
+        file.write(pfad + '\n')
+
+for pfad in paths_de_SR:
+    with open("alle_pfade_angeschaute_berichte_de.txt", mode="a", encoding="utf-8") as file:
+        file.write(pfad + '\n')
+
 
 # Davon die in eine Liste ablegen, die noch nicht bearbeitet wurden. 
 ist_eingelesen = []
@@ -79,30 +92,56 @@ if eingelesene_pfade > 0:
 for pfad in nicht_eingelesen:
 
     # file laden
-    parsedPDF = parser.from_file(pfad) 
+    parsedPDF = parser.from_file(pfad, requestOptions={'timeout': 300}) 
 
-    # Ausgabe-Variablen initiieren
+    # Ausgabe-Variablen initiieren und ggf direkt füllen. 
     Company = os.path.basename(pfad).split('20')[0].lower().strip()
+
+    if (Company == '') | (Company == ' '):
+
+        for element in pfad.split('\\'):
+            if ('AG' in element) | ('SE' in element):
+                Company = element.lower().strip()
+
+    # Company für spätere analyse ablegen
+    companies = []
+    with open('companies.txt', 'r+', encoding="utf-8") as file:
+
+        for line in file:
+            companies.append(line.strip())
+
+        if Company not in companies:
+            file.write(Company + '\n')
+
+
     Year = re.findall(r'\d{4}', pfad)[-1]
     SR = 0
     NFE = 0
 
-    if 'SR' in pfad:
+    # SR wird ggf in der Meta-Daten-Loop weiter unten nochmal behandelt. 
+    if ('SR' in pfad) | ('crb' in pfad.lower()) | ('nhb' in pfad.lower()) | ('nb' in pfad.lower()) | ('nachhaltigkeit' in pfad.lower()):
         SR = 1
 
     if ('nfb' in pfad.lower()) | ('nfe' in pfad.lower()) | ('nichtfinanziell' in pfad.lower()):
         NFE = 1
     
-    try: 
+    ISIN = 'fehlt'
+    for k,v in list_of_isin_comp_tuples:
+        if Company in k:
+            ISIN = v
+    if ISIN == 'fehlt':
         for k,v in list_of_isin_comp_tuples:
-            if Company in k:
+            firm = Company.split(' ')[0]
+            if firm in k:
                 ISIN = v
-    except:
-        ISIN = 'fehlt'
 
     # Datum SRNFE:
     try:
         Date_SRNFE = parsedPDF['metadata']['Creation-Date'][:10]
+        if Date_SRNFE == '':
+            Date_SRNFE = parsedPDF['metadata']['created'][:10]
+        if Date_SRNFE == '':
+            Date_SRNFE = 'fehlt'
     except:
         Date_SRNFE = 'fehlt'
 
@@ -126,42 +165,7 @@ for pfad in nicht_eingelesen:
 
         # report_size zuweisen
         report_size_SRNFE = len(pages)
-
-        # AR zu SRNFE finden
-        pfad_AR = 'a'
-        for kandidat in paths_de:
-            if (Company in kandidat.lower()) & (Year in kandidat) & ('AR' in kandidat):
-                pfad_AR = kandidat
-
-        # AR einlesen und Metadaten sammeln
-        try:
-            AR = parser.from_file(pfad_AR) 
-            Date_AR = AR['metadata']['Creation-Date'][:10]
-            pages_raw_AR = unicodedata.normalize("NFKD", AR['content']).strip().split('\n\n\n') # löst ein uni-encode-problem. Da stand vor jedem Wort "\xa0". Löst evtl. auch andere Problem mit komischen Fragmenten im Output.
-            pages_AR = [page for page in pages_raw_AR if len(page)] # löscht alle leeren pages. 
-            report_size_AR = len(pages)
-
-
-
-            # SCHLEIFE FÜR META-DATEN AR:
-            for page in pages_AR: 
-
-                # Spaltennamen von Tabellen standen immer hinter \n\n. Das durch Punkt ersetzt um Satzlänge künstlich zu kürzen. Tabellen werden jetzt nicht mehr als (wirre) Sätze gelesen. 
-                text_AR = page.replace('\n\n', ".").replace('\n', "").replace('*','.').replace('..','.').replace('\t', "").replace(";", '').strip().lower()
-                satz_liste_AR = text_AR.split('.')
-                report_sentence_AR += len(satz_liste_AR)
-
-                # report_words aufaddieren
-                report_words_AR += len(text_AR.split(' '))
-
-        except:
-            Date_AR = 'fehlt'
-            pages_raw_AR = 'fehlt'
-            pages_AR = 'fehlt'
-            report_size_AR = 'fehlt'
-            report_sentence_AR = 'fehlt'
-            report_words_AR = 'fehlt'
-
+        
         # SCHLEIFE FÜR META-DATEN SR:
         for page in pages: 
 
@@ -174,37 +178,92 @@ for pfad in nicht_eingelesen:
             report_words_SRNFE += len(text_SR.split(' '))
 
             # gri
+            regex_gri = r'\W+gri\W|^gri\W*|global reporting initiative'
             for satz in satz_liste_SR:
-
-                regex_gri = r'\W+gri\W|^gri\W*|global reporting initiative'
                 if re.search(regex_gri, satz):
                     is_gri = 1
-            
-        # Seite für Seite durchgehen
-        for page in pages: 
-            page_number += 1
-            print(u'Datei {} / {}. Seite {} / {}'.format(pfad_counter, len(paths_de_SR), page_number, report_size_SRNFE))
-
+                
+            # SR
+        for page in pages[:3]:
             # Spaltennamen von Tabellen standen immer hinter \n\n. Das durch Punkt ersetzt um Satzlänge künstlich zu kürzen. Tabellen werden jetzt nicht mehr als (wirre) Sätze gelesen. 
             text_SR = page.replace('\n\n', ".").replace('\n', "").replace('*','.').replace('..','.').replace('\t', "").replace(";", '').strip().lower()
+            satz_liste_SR = text_SR.split('.')
+            report_sentence_SRNFE += len(satz_liste_SR)
 
-            satz_liste_raw = text_SR.split('.')
-            satz_liste = [satz.strip() for satz in satz_liste_raw if len(satz.strip()) > 4] # mindestens 4 weil kürzestes Wort in KWL ("wert")
+            if ('nachhaltigkeitsbericht' in satz_liste_SR) | ('sustainability report' in satz_liste_SR) | ('corporate responsibility' in satz_liste_SR):
+                SR = 1
 
-            # Satzweise die gesamte KWL checken lassen. Wenn Match, dann Satz mit Nummer in Match_Liste ablegen
-            for satz in satz_liste:
-                satz_drin = False
-                for key_word in KWL:
-                    if satz_drin:
-                        break
-                    if re.search(key_word, satz):
-                        key_word_clean = ''.join([char for char in key_word.replace('.',' ').replace('\d', '') if char not in '*+\W^'])
-                        with open("./output.csv", "a", encoding="utf-8") as File:
-                            File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz.replace(u'\ufffd', ' '), report_size_AR, report_sentence_AR, report_words_AR))
-                        satz_drin = True
 
-        with open("eingelesen.txt", mode="a", encoding="utf-8") as file:
-            file.write(pfad + '\n')
+        if SR|NFE:  
+            # AR zu SRNFE finden
+            pfad_AR = 'a'
+            for kandidat in paths_de:
+                if ' ' in Company:
+                    firm = Company.split(' ')[0]
+                else: 
+                    firm = Company
+
+                if ((firm in kandidat.lower()) & (Year in kandidat) & ('ar' in kandidat.lower())) | ((firm in kandidat.lower()) & (Year in kandidat) & ('gb' in kandidat.lower())):
+                    pfad_AR = kandidat
+
+            # AR einlesen und Metadaten sammeln
+            try:
+                AR = parser.from_file(pfad_AR) 
+                Date_AR = AR['metadata']['Creation-Date'][:10]
+                if Date_AR == '':
+                    Date_AR = AR['metadata']['created'][:10]
+                if Date_AR == '':
+                    Date_AR = 'fehlt'
+                pages_raw_AR = unicodedata.normalize("NFKD", AR['content']).strip().split('\n\n\n') # löst ein uni-encode-problem. Da stand vor jedem Wort "\xa0". Löst evtl. auch andere Problem mit komischen Fragmenten im Output.
+                pages_AR = [page for page in pages_raw_AR if len(page)] # löscht alle leeren pages. 
+                report_size_AR = len(pages)
+
+
+
+                # SCHLEIFE FÜR META-DATEN AR:
+                for page in pages_AR: 
+
+                    # Spaltennamen von Tabellen standen immer hinter \n\n. Das durch Punkt ersetzt um Satzlänge künstlich zu kürzen. Tabellen werden jetzt nicht mehr als (wirre) Sätze gelesen. 
+                    text_AR = page.replace('\n\n', ".").replace('\n', "").replace('*','.').replace('..','.').replace('\t', "").replace(";", '').strip().lower()
+                    satz_liste_AR = text_AR.split('.')
+                    report_sentence_AR += len(satz_liste_AR)
+
+                    # report_words aufaddieren
+                    report_words_AR += len(text_AR.split(' '))
+
+            except:
+                Date_AR = 'fehlt'
+                pages_raw_AR = 'fehlt'
+                pages_AR = 'fehlt'
+                report_size_AR = 'fehlt'
+                report_sentence_AR = 'fehlt'
+                report_words_AR = 'fehlt'
+                
+            # Seite für Seite durchgehen
+            for page in pages: 
+                page_number += 1
+                print(u'Datei {} / {}. Seite {} / {}'.format(pfad_counter, len(paths_de_SR), page_number, report_size_SRNFE))
+
+                # Spaltennamen von Tabellen standen immer hinter \n\n. Das durch Punkt ersetzt um Satzlänge künstlich zu kürzen. Tabellen werden jetzt nicht mehr als (wirre) Sätze gelesen. 
+                text_SR = page.replace('\n\n', ".").replace('\n', "").replace('*','.').replace('..','.').replace('\t', "").replace(";", '').strip().lower()
+
+                satz_liste_raw = text_SR.split('.')
+                satz_liste = [satz.strip() for satz in satz_liste_raw if len(satz.strip()) > 4] # mindestens 4 weil kürzestes Wort in KWL ("wert")
+
+                # Satzweise die gesamte KWL checken lassen. Wenn Match, dann Satz mit Nummer in Match_Liste ablegen
+                for satz in satz_liste:
+                    satz_drin = False
+                    for key_word in KWL:
+                        if satz_drin:
+                            break
+                        if re.search(key_word, satz):
+                            key_word_clean = ''.join([char for char in key_word.replace('.',' ').replace('\d', '') if char not in '*+\W^'])
+                            with open("./output.csv", "a", encoding="utf-8") as File:
+                                File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz.replace(u'\ufffd', ' '), report_size_AR, report_sentence_AR, report_words_AR, pfad))
+                            satz_drin = True
+
+            with open("eingelesen.txt", mode="a", encoding="utf-8") as file:
+                file.write(pfad + '\n')
     except:
         with open("fehlerhafte_dateien.txt", mode="a", encoding="utf-8") as file:
             file.write(pfad + '\n')
