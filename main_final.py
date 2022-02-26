@@ -37,8 +37,7 @@ with open("my_KWL.txt", "r", encoding="utf-8") as KWL_file:
         KWL.append(line.strip())
 
 # 0. ISIN-dict laden:
-df = pd.read_excel('C:/Users/test/Dropbox/HHU FACC Lehrstuhl SHK-WHB/Looser/CDAX-Unternehmen CSR Report Informationen 2008-2018_DL.xlsx')
-df = df.fillna(method='ffill')
+df = pd.read_excel('C:/Users/test/Documents/GitHub/hhu_whk_project_tone/fertige_daten_v1.xlsx')
 isin_dict = {}
 for index, row in df.iterrows():
     isin_dict[row['Company'].lower().strip()] = row['ISIN'].strip()
@@ -47,6 +46,9 @@ list_of_isin_comp_tuples = []
 
 for i in isin_dict.keys():
     list_of_isin_comp_tuples.append((i, isin_dict[i]))
+
+list_of_isin_comp_tuples.remove(('all for one steep', 'DE0006851603')) # einzelner Fehler wird korrigiert. Isin war falsch. 
+list_of_isin_comp_tuples.append(('verallia', 'DE0006851603'))
 
 # 1. Pfad-Liste zur Bearbeitung erstellen
 # Alle deutschen Dateipfade sammeln.
@@ -100,8 +102,14 @@ for pfad in nicht_eingelesen:
     if (Company == '') | (Company == ' '):
 
         for element in pfad.split('\\'):
-            if ('AG' in element) | ('SE' in element):
+            if ('AG' in element) | ('SE' in element) | ('vzo' in element.lower())| ('kgaa' in element.lower()):
                 Company = element.lower().strip()
+    
+    if (Company == '') | (Company == ' '):
+
+        for element in pfad.split('\\'):
+            Company = element.lower().strip()
+
 
     # Company für spätere analyse ablegen
     companies = []
@@ -137,9 +145,9 @@ for pfad in nicht_eingelesen:
 
     # Datum SRNFE:
     try:
-        Date_SRNFE = parsedPDF['metadata']['Creation-Date'][:10]
+        Date_SRNFE = '.'.join(parsedPDF['metadata']['Creation-Date'][:10].split('-')[::-1])
         if Date_SRNFE == '':
-            Date_SRNFE = parsedPDF['metadata']['created'][:10]
+            Date_SRNFE = '.'.join(parsedPDF['metadata']['created'][:10].split('-')[::-1])
         if Date_SRNFE == '':
             Date_SRNFE = 'fehlt'
     except:
@@ -209,9 +217,9 @@ for pfad in nicht_eingelesen:
             # AR einlesen und Metadaten sammeln
             try:
                 AR = parser.from_file(pfad_AR) 
-                Date_AR = AR['metadata']['Creation-Date'][:10]
+                Date_AR = '.'.join(AR['metadata']['Creation-Date'][:10].split('-')[::-1])
                 if Date_AR == '':
-                    Date_AR = AR['metadata']['created'][:10]
+                    Date_AR = '.'.join(AR['metadata']['created'][:10].split('-')[::-1])
                 if Date_AR == '':
                     Date_AR = 'fehlt'
                 pages_raw_AR = unicodedata.normalize("NFKD", AR['content']).strip().split('\n\n\n') # löst ein uni-encode-problem. Da stand vor jedem Wort "\xa0". Löst evtl. auch andere Problem mit komischen Fragmenten im Output.
@@ -238,7 +246,10 @@ for pfad in nicht_eingelesen:
                 report_size_AR = 'fehlt'
                 report_sentence_AR = 'fehlt'
                 report_words_AR = 'fehlt'
-                
+
+            # initiieren von restatement-var, damit Berichte ohne res auch gespeichert werden. 
+            restatement = 0
+
             # Seite für Seite durchgehen
             for page in pages: 
                 page_number += 1
@@ -252,15 +263,23 @@ for pfad in nicht_eingelesen:
 
                 # Satzweise die gesamte KWL checken lassen. Wenn Match, dann Satz mit Nummer in Match_Liste ablegen
                 for satz in satz_liste:
-                    satz_drin = False
+                    satz_drin = 0
                     for key_word in KWL:
                         if satz_drin:
                             break
                         if re.search(key_word, satz):
+                            satz_drin = 1
+                            restatement = 1
                             key_word_clean = ''.join([char for char in key_word.replace('.',' ').replace('\d', '') if char not in '*+\W^'])
                             with open("./output.csv", "a", encoding="utf-8") as File:
-                                File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz.replace(u'\ufffd', ' '), report_size_AR, report_sentence_AR, report_words_AR, pfad))
+                                File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, ISIN, restatement, SR, NFE, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz.replace(u'\ufffd', ' '), report_size_AR, report_sentence_AR, report_words_AR, pfad))
                             satz_drin = True
+            if not restatement:
+                with open("./output.csv", "a", encoding="utf-8") as File:
+                    key_word = 'fehlt'
+                    key_word_clean = 'fehlt'
+                    satz = 'fehlt'
+                    File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, ISIN, restatement, SR, NFE, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz, report_size_AR, report_sentence_AR, report_words_AR, pfad))
 
             with open("eingelesen.txt", mode="a", encoding="utf-8") as file:
                 file.write(pfad + '\n')
@@ -278,4 +297,4 @@ print(u'\nBenötigte Zeit: {}\n'.format(stop - start))
 
 
 # Für Output-Datei: 
-# Company;Year;SR;NFE;ISIN;Date SRNFE;Date AR;ReportSize SRNFE;ReportSentence SRNFE;ReportWords SRNFE;GRI;Keywords;KeywordsClean;SentenceRestatement;ReportSize AR;ReportSentence AR;ReportWords AR
+# Company;Year;ISIN;restatement;SR;NFE;Date SRNFE;Date AR;ReportSize SRNFE;ReportSentence SRNFE;ReportWords SRNFE;GRI;Keywords;KeywordsClean;SentenceRestatement;ReportSize AR;ReportSentence AR;ReportWords AR

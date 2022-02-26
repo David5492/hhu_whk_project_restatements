@@ -4,7 +4,7 @@ kws
 leifheit
 -telefonica-deutschland-deutsch.
 170628_vonovia_nb_
-
+2016_schaeffler_sr_de.pdf
 adesso
 adler modemärkte ag
 adler real estate ag
@@ -260,9 +260,16 @@ a.springer ag
 adidas ag
 adva ag
 airbus
+2017_nfb_sr.pdf
+2017_sr.pdf
+2018_sr.pdf
 aurubis ag
 basf se
 bayer ag
+2013_sr.pdf
+2014_sr.pdf
+2015_sr.pdf
+2016_sr.pdf
 bechtle ag
 beiersdorf ag
 bilfinger berger se
@@ -276,10 +283,12 @@ celesio ag (mckesson europe)
 compugroup medical ag
 continental ag
 covestro ag
+cts eventim kgaa
 daimler ag
 delivery hero se
 deutsche post ag
 dmg mori ag
+draegerwerk vzo
 dt_telekom ag
 duerr ag
 e.on ag
@@ -290,9 +299,22 @@ evotec ag
 fielmann ag
 fraport ag ffm airport
 fuchs petrol. ag
+2014_&_2015_sr.pdf
+2016_&_2017_sr.pdf
 gft technologies se
 gft_gri_index_
 gigaset ag
+2012_sr.pdf
+2017_nfb.pdf
+2018_nfb.pdf
+2018_sr_en.pdf
+2007_&_2008_sr.pdf
+2008_&_2009_sr.pdf
+2009_&_2010_sr.pdf
+2010_&_2011_sr.pdf
+2011_&_2012_sr.pdf
+2017_&_2018_nfb.pdf
+2018_&_2019_nfb.pdf
 heidelbergcement ag
 henkel ag_co.kgaa
 hochtief ag
@@ -312,9 +334,7 @@ celesio ag
 centrotec sustainable
 cewe stiftung &
 compugroup med.ag
-cts eventim kgaa
 deutz ag
-draegerwerk vzo
 dt.telekom ag
 encavis
 first sensor
