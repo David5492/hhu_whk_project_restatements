@@ -7410,3 +7410,42 @@ C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\zooplus\AR\zooplus2020_AR_eng.pdf
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\zooplus\SR\zooplus2019_NFB.pdf
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\zooplus\SR\zooplus2019_NFB_eng.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\A.S. Creation Tapeten AG2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\A.S. Creation Tapeten AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\ALLGEIER SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Berentzen-Gruppe AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Berentzen-Gruppe AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Dermapharm Holding SE2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Dermapharm Holding SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\EDAG Engineering Group2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\EDAG Engineering Group2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Flatexdegiro AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Frequentis AG2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Frequentis AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\H+R KGAA2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\H+R KGAA2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\HAPAG-LLOYD AG 2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\HAPAG-LLOYD AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\HELLOFRESH SE2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\HELLOFRESH SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\HENSOLDT AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Hypoport SE2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Hypoport SE2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Jost Werke AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Knorr-Bremse AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\Knorr-Bremse AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\LOGWIN AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\LOGWIN AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\MEDIOS AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\SAF HOLLAND2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\SAF HOLLAND2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\SCHALTBAU HOLDING2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\SCHALTBAU HOLDING2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\SIEMENS ENERGY2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\STS GROUP2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\STS GROUP2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\TEAMVIEWER2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\TELE COLUMBUS2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\TELE COLUMBUS2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\VARTA AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert\VOLTABOX AG2019_NFB.pdf
