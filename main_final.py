@@ -8,8 +8,6 @@ import pandas as pd
 
 start = datetime.datetime.now()
 
-
-
 # Liste der Output-Variablen:
 
 # Company
@@ -37,7 +35,7 @@ with open("my_KWL.txt", "r", encoding="utf-8") as KWL_file:
         KWL.append(line.strip())
 
 # 0. ISIN-dict laden:
-df = pd.read_excel('C:/Users/test/Documents/GitHub/hhu_whk_project_tone/fertige_daten_v1.xlsx')
+df = pd.read_excel('C:/Users/test/Documents/GitHub/hhu_whk_project_restatements/kajan_isin_korrekt.xlsx')
 isin_dict = {}
 for index, row in df.iterrows():
     isin_dict[row['Company'].lower().strip()] = row['ISIN'].strip()
@@ -47,15 +45,16 @@ list_of_isin_comp_tuples = []
 for i in isin_dict.keys():
     list_of_isin_comp_tuples.append((i, isin_dict[i]))
 
-list_of_isin_comp_tuples.remove(('all for one steep', 'DE0006851603')) # einzelner Fehler wird korrigiert. Isin war falsch. 
-list_of_isin_comp_tuples.append(('verallia', 'DE0006851603'))
+# list_of_isin_comp_tuples.remove(('all for one steep', 'DE0006851603')) # einzelner Fehler wird korrigiert. Isin war falsch. 
+# list_of_isin_comp_tuples.append(('verallia', 'DE0006851603'))
 
 # 1. Pfad-Liste zur Bearbeitung erstellen
 # Alle deutschen Dateipfade sammeln.
 
 # PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\test_data'
 # PATH = 'C:\\Users\\test\\sciebo\\FACC SHK-WHB Berichte' 
-PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\data\\raw_nachgeliefert' 
+# PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\data\\raw_nachgeliefert_ganz' 
+PATH = "D:\Berichte"
 paths = [y for x in os.walk(PATH) for y in glob(os.path.join(x[0], '*.pdf'))]
 paths_de = [pfad for pfad in paths if 'eng.' not in pfad.lower()]
 paths_de_SR = [pfad for pfad in paths_de if not ('ar.' in pfad.lower()) | ('gb' in pfad.lower()) | ('ea.' in pfad.lower()) | ('_ar' in pfad.lower()) | ('abschlu' in pfad.lower()) | ('jb' in pfad.lower()) | ('annual' in pfad.lower())]
@@ -274,11 +273,11 @@ for pfad in nicht_eingelesen:
                             satz_drin = 1
                             restatement = 1
                             key_word_clean = ''.join([char for char in key_word.replace('.',' ').replace('\d', '') if char not in '*+\W^'])
-                            with open("./output_nachgeliefert.csv", "a", encoding="utf-8") as File:
+                            with open("./output_nachgeliefert2.csv", "a", encoding="utf-8") as File:
                                 File.write(u"{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(Company, Year, ISIN, restatement, SR, NFE, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, key_word, key_word_clean, satz.replace(u'\ufffd', ' '), report_size_AR, report_sentence_AR, report_words_AR, pfad))
                             satz_drin = True
             if not restatement:
-                with open("./output_nachgeliefert.csv", "a", encoding="utf-8") as File:
+                with open("./output_nachgeliefert2.csv", "a", encoding="utf-8") as File:
                     key_word = 'fehlt'
                     key_word_clean = 'fehlt'
                     satz = 'fehlt'
